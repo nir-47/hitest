@@ -1,1 +1,1 @@
-this is f3 created in git as part of child2 branch named 'child'
+this is f3 created in git as part of child3 branch named 'child'
