@@ -1,1 +1,1 @@
-this is f3 created in git as part of child3 branch named 'child'
+this is modified in githit as part of branch 'mv'
